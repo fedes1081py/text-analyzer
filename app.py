@@ -1,8 +1,3 @@
-
-texto = "Hola como estas perra"
-vocales = 'aeiou'
-
-
 def convertir_lista(texto):
     texto_split = texto.split(" ")
     return texto_split
